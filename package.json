@@ -1,0 +1,19 @@
+{
+  "name": "18-heaths-sn-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "-y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heathlington/18-heaths-sn-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heathlington/18-heaths-sn-api/issues"
+  },
+  "homepage": "https://github.com/Heathlington/18-heaths-sn-api#readme"
+}
